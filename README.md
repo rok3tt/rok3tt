@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there!
+I am an avid systems programmer, I like working with \
+Operating Systems, Drivers, Compilers, and so much more!
 
-<!--
-**rok3tt/rok3tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language Experience
+- Rust : Intermediate
+- Zig : Basic-Intermediate
+- C : Advanced
+- C++: Absolutely Not (Who actualy enjoys this language anyway?)
+- Assembly : Intermediate-Advanced
+- Lua: Basic
+- Python: Noob (Don't really care about this language)
+  
