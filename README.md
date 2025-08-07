@@ -7,7 +7,8 @@ Operating Systems, Drivers, Compilers, and so much more!
 - Zig : Basic-Intermediate
 - C : Advanced
 - C++: Absolutely Not (Who actualy enjoys this language anyway?)
-- Assembly : Intermediate-Advanced
+- Assembly (x86) : Good Enough
+- Assembly (RISC-V) : Basic
 - Lua: Basic
 - Python: Noob (Don't really care about this language)
-  
+
